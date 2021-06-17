@@ -1,4 +1,4 @@
-# Face-detection-and-Age-Gender-Classification-using-CNNs
+# Face-detection/Age-Gender-Classification-using-pretrained-CNNs
 
 Three pretrained CNNs are being used in this project. The model files can't be shared here due to the memory limits. Instead here is the link for the files.
 **link for the models** ~ https://drive.google.com/drive/folders/1pGOFd_GwLfIY1YeambTaT7z6h9eXPf0G?usp=sharing
